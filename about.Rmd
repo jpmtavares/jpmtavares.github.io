@@ -5,5 +5,5 @@ title: "About This Website"
 More about this website.
 
 ```{r, echo=FALSE}
-htmltools::includeHTML("plot.html")
+htmltools::includeHTML("plots/sentiment.html")
 ```
