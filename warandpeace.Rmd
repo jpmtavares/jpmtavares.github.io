@@ -1,0 +1,15 @@
+&nbsp;
+
+&nbsp;
+
+#War and Peace
+
+#{.emphasized}
+This is about war and peace.
+
+
+
+
+```{r, echo=FALSE}
+htmltools::includeHTML("plots/sentiment.html")
+```

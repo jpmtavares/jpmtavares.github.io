@@ -1,11 +1,15 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Joana Tavares"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Projects"
+      menu:
+        - text: "Data Mining"
+          href: datamining.html
 output_dir: "."
 exclude: ["README.md"]
 output:

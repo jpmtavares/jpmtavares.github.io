@@ -1,0 +1,21 @@
+---
+title: Data Mining  
+---
+
+&nbsp;
+
+##Reading between the lines
+#####September 2018 {style="text-align:right;color:#2980b9;"}
+******  
+![](https://media.giphy.com/media/nYIv6u2M5mxdS/giphy.gif){.column-left style="width: 40%;"}
+
+###War and Peace - text analysis {.column-right style="width: 57%;"}
+
+Is *"War and Peace"* a book about war? ...and peace?  
+Is it depressing and heart-wrenching? Or joyful and uplifting?  
+
+The one thing we know for sure is that *"War and Peace"* is most certainly a **very long book**, so let's tackle these questions before spending [the rest of the year](https://www.reddit.com/r/ayearofwarandpeace/) with it!
+
+R packages: `gutenbergr`, `tidytext`, `taucharts`
+
+######[Take a look...](warandpeace.html)

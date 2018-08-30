@@ -5,3 +5,14 @@
 .emphasized {
    font-size: 1.2em;
 }
+
+
+.column-left{
+  float: left;
+  text-align: left;
+}
+
+.column-right{
+  float: right;
+  text-align: left;
+}
